@@ -29,7 +29,7 @@ var RefitCodeGenerator = function () {
 RefitCodeGenerator.identifier = 'com.didstopia.PawExtensions.RefitCodeGenerator'
 
 // give a display name to your Code Generator
-RefitCodeGenerator.title = 'My Code Generator'
+RefitCodeGenerator.title = 'Refit (C#)'
 
 // call to register function is required
 registerCodeGenerator(RefitCodeGenerator)
