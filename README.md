@@ -1,5 +1,9 @@
 # [Refit](https://github.com/paulcbetts/refit) Code Generator for [Paw](https://paw.cloud)
 
+[![Build Status](https://travis-ci.org/Didstopia/PawExtensions.RefitCodeGenerator.svg?branch=master)](https://travis-ci.org/Didstopia/PawExtensions.RefitCodeGenerator)
+
+**NOTICE:** This extension is in _early development_ and is definitely NOT ready for production use.
+
 A [Paw](https://paw.cloud) extension that generates [Refit](https://github.com/paulcbetts/refit) C# code.
 
 ## Usage
