@@ -5,9 +5,13 @@ language: node_js
 node_js:
   - "node"
 
+# Run inside a container by disabling sudo
+sudo:
+  - "false"
+
 # Install dependencies
 install:
-  - npm install mocha
+  - npm install mocha chai
 
 # Run mocha tests
 script:
