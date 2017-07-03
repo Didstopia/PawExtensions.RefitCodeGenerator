@@ -1,0 +1,14 @@
+# Use the Node.js package from Travis
+language: node_js
+
+# Test against latest stable Node.js release
+node_js:
+  - "node"
+
+# Install dependencies
+install:
+  - npm install mocha
+
+# Run mocha tests
+script:
+  - ./node_modules/.bin/mocha TestRefitCodeGenerator.js

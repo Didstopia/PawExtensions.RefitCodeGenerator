@@ -1,3 +1,6 @@
+# Ignore Node.js package files
+package.json
+package-lock.json
 
 # Created by https://www.gitignore.io/api/macos,linux,windows,visualstudio,visualstudiocode
 
